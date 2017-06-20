@@ -1,12 +1,14 @@
 # reactjs-basics
-Explore ReactJS 
+
+**Explore ReactJS** 
 
 1. First react components and intro to JSX.
 2. JSX - Inline styling 
 3. JSX - JS functions in JSX
 
 
-Steps :
+**Steps to follow**
+
 :one: clone git repo with 
 **npm clone https://github.com/SachinKasar/reactjs-basics.git**
 
