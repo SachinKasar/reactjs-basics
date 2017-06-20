@@ -7,13 +7,13 @@ Explore ReactJS
 
 
 Steps :
-1. clone git repo with 
+:one: clone git repo with 
 **npm clone https://github.com/SachinKasar/reactjs-basics.git**
 
-2. install npm packages with command
+:two: install npm packages with command
 **npm install**
 
-3. start webpack server
+:three: start webpack server
 **npm start**
 
-4. hit url in browser **http://localhost:8080/**
+:four: hit url in browser **http://localhost:8080/**
