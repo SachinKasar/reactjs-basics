@@ -9,14 +9,16 @@ class App extends React.Component {
         }
     
          return ( 
+             
                <div className="container">
                     <div className="row">
                           <div className="col-xs-10 col-xs-offset-1">
-                                 <h1 style={{color:'blue'}}> First ReactJS Components </h1>
+                                 <h1 style={{color:'blue'}}> First ReactJS Component </h1>
                                  <h1 style={{color:'red'}}> { getDate() } </h1>
                            </div>
                       </div>
                 </div> 
+          
          );
 
     }
