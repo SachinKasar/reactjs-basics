@@ -7,11 +7,11 @@
     - package react-dom - render(element, identifier)
     - COmponent - render() is mandatory and should return element to display
 2. Intro to JSX
-    - Should have enclosing/wrapper tag 
+    - Adjacent JSX elements must be wrapped in an enclosing tag 
     - JSX - Inline styling 
     - JSX - JS functions in JSX
     - JSX {} = You can put Ternary operator, some code like 2+2 and string like 'welcome' etc.
-5. Hot reload 
+3. Hot reload 
 
 
 
